@@ -1,4 +1,4 @@
-# speech-translator
+# speech-Transcribe
 Voice to text using AWS with Nodejs
 
 
